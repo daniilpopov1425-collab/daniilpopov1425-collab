@@ -12,8 +12,8 @@
 
 - **Posición:** CEO & Lead Developer en **Volt Performance Suite**.
 - **Enfoque:** Optimización nativa de Windows a bajo nivel para esports, latencia ultra-baja y consistencia de fotogramas.
-- **Última versión:** [Volt Performance Suite v1.0.3](https://github.com/daniilpopov1425-collab/Volt-Releases/releases/latest)
-- **Descarga oficial:** [VoltSetup-1.0.3.exe](https://github.com/daniilpopov1425-collab/Volt-Releases/releases/download/v1.0.3/VoltSetup-1.0.3.exe)
+- **Última versión:** [Volt Performance Suite v1.0.4](https://github.com/daniilpopov1425-collab/Volt-Releases/releases/latest)
+- **Descarga oficial:** [VoltSetup-1.0.4.exe](https://github.com/daniilpopov1425-collab/Volt-Releases/releases/download/v1.0.4/VoltSetup-1.0.4.exe)
 
 ---
 
